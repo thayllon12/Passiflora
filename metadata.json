@@ -1,0 +1,6 @@
+{
+  "name": "Passiflora — Sabonetes Artesanais de Maracujá",
+  "description": "Projeto Do Fruto à Ação: Sabonetes artesanais de maracujá em barra e líquido sustentáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
